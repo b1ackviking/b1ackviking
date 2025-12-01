@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Vladimir. I am a software developer at Kaspersky Lab working on [KasperskyOS](https://os.kaspersky.com/), a foundation for secure-by-design solutions.
+My name is Vladimir. I am a Lead Software Developer at Kaspersky Lab working on [KasperskyOS](https://os.kaspersky.com/), a secure-by-design operating system.
 
 Apart from my occupation, my main interests are in real-time graphics rendering, game development, software design and architecture, and DevOps practices.
 
